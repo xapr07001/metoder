@@ -1,0 +1,14 @@
+C:\GitHub\metoder\bin\Debug\net8.0\metoder.exe
+C:\GitHub\metoder\bin\Debug\net8.0\metoder.deps.json
+C:\GitHub\metoder\bin\Debug\net8.0\metoder.runtimeconfig.json
+C:\GitHub\metoder\bin\Debug\net8.0\metoder.dll
+C:\GitHub\metoder\bin\Debug\net8.0\metoder.pdb
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.AssemblyInfoInputs.cache
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.AssemblyInfo.cs
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.csproj.CoreCompileInputs.cache
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.dll
+C:\GitHub\metoder\obj\Debug\net8.0\refint\metoder.dll
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.pdb
+C:\GitHub\metoder\obj\Debug\net8.0\metoder.genruntimeconfig.cache
+C:\GitHub\metoder\obj\Debug\net8.0\ref\metoder.dll
