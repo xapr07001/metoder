@@ -9,9 +9,6 @@ double Average(double a, double b, double c){
     return((a+b+c)/3);
 }
 
-double radie=2.4;
-Console.WriteLine("Cirkelns omkrets: "+CirkelOmkrets(radie));
-Console.WriteLine("Cirkelns area: "+CirkelArea(radie));
-
-double a = 5.2, b = 3.4, c = 1.5;
-Console.WriteLine("medelvärdet är " + Average(a,b,c));
+Console.WriteLine("Cirkelns omkrets: "+CirkelOmkrets(2.4));
+Console.WriteLine("Cirkelns area: "+CirkelArea(2.4));
+Console.WriteLine("medelvärdet är " + Average(5.2,3.4,1.5));
